@@ -1,0 +1,2 @@
+# scRNAseq_trajectory_analysis
+This Matlab package is developed to detect and characterize spatial or developmental pseudotime trajectories from single-cell RNA-seq data. The trajectory (or branched trajectories) is detected as the probability density ridge of the data points in a 2D embedded space (e.g., UMAP). Following trajectory detection, genes that are differentially expressed along the trajectory (i.e., with a trajectory dependent expression pattern) are detected.
